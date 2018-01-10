@@ -5,7 +5,7 @@ import math
 import time
 import random
 
-
+# TODO: 将程序中的数字尽可能换成与屏幕尺寸有关的表达式，以便使程序能在不同机器上成功运行
 class Jumper:
     # pos[0] is horizontal, pos[1] is vertical
     pos = (0, 0)
